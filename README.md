@@ -1,2 +1,2 @@
 # Script_Writer
-A script writer agent
+An Agent designed to write a script of the given topic 
